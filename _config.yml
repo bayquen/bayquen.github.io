@@ -36,7 +36,7 @@ plugins:
   # - jekyll-include-cache
   - jekyll-archives
 
-minimal_mistakes_skin: "default"  # or choose: dark, mint, contrast, etc.
+minimal_mistakes_skin: "dark"  # or choose: dark, mint, contrast, etc.
 # Optional defaults
 # defaults:
 #   - scope:
