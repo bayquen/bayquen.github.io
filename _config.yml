@@ -29,11 +29,11 @@ github_username: bayquen
 # theme: minima
 theme: minimal-mistakes-jekyll
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-include-cache
+  # - jekyll-feed
+  # - jekyll-sitemap
+  # - jekyll-seo-tag
+  # - jekyll-paginate
+  # - jekyll-include-cache
   - jekyll-archives
 
 minimal_mistakes_skin: "default"  # or choose: dark, mint, contrast, etc.
