@@ -34,3 +34,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Brandon: add another theme for use
 gem "minimal-mistakes-jekyll"
+gem 'jekyll-archives'
