@@ -20,7 +20,7 @@
 
 title: Brandon Bayquen
 email: brandonbayquen@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: "Aspiring AI & Software Engineer | Fullstack" >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bayquen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: bayquen
@@ -64,3 +64,22 @@ minimal_mistakes_skin: "sunrise"  # or choose: dark, mint, contrast, etc.
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+author:
+  name: "Brandon Bayquen"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Software Engineer-in-training. CS @ UC Davis. I build smart things."
+  location: "California, USA"
+  email: "youremail@example.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/brandonbayquen"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/your-link"
+    - label: "Resume"
+      icon: "fas fa-file-alt"
+      url: "/resume"
+
+markdown: kramdown
+paginate: 5
