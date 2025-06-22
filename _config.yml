@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Brandon Bayquen
-email: brandonbayquen@gmail.com
+title: "Brandon Bayquen"
+email: "brandonbayquen@gmail.com"
 description: "Aspiring AI & Software Engineer | Fullstack" >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bayquen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: bayquen
+github_username: "bayquen"
 
 # Build settings
 # theme: minima
